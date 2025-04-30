@@ -148,7 +148,7 @@ const Index = () => {
             >
               {`On April 16th, Texas education completely changed with ESA legislation. It allows every accredited private school or microschool to get $10,000 from the Texas government when a parent enrolls their child in the school.
 
-But you're a coach... why does this matter for you?`}
+But you're a former NFL player... why does this matter for you?`}
             </StreamingText>
           </div>
         </StorySection>
@@ -171,9 +171,9 @@ But you're a coach... why does this matter for you?`}
               Now, there's a golden opportunity for sports coaches.
             </StreamingText>
             <StreamingText className="text-xl text-gray-400 mb-6" delay={0.5} index={1}>
-              {`This is a unique point in time. Coaches can start their own microschools and double their income. This is only now possible because:
+              {`This is a unique point in time. Former athletes can start their own sports academy and increase their income. This is only now possible because:
 
-1. The new ESA legislation enables coaches to be paid at least $10,000 in revenue for each student enrolled at their school. Microschools have 15-25 students.
+1. The new ESA legislation enables academy owners to be paid at least $10,000 in revenue for each student enrolled.
 
 2. In 2025, we have the technology to handle all academics and logistics for running a school (more on this later).
 
@@ -200,11 +200,11 @@ But why should you care?`}
               Shape the next generation and build your legacy.
             </StreamingText>
             <StreamingText className="text-xl text-gray-400 mb-8" index={1}>
-              {`This is a golden opportunity for top sports coaches expand their impact and blaze their own trail.
+              {`This is a golden opportunity for top professional athletes to expand their influence.
 
-You will get to own your own school, do what you love (coach kids in your sport), make an impact, and cement your brand in sports.
+You will get to own your own sports academy, make an impact, and cement your brand in sports as a leader who invests in the next generation of athletes.
 
-But you might be busy and already have a job...`}
+But you might be too busy to run an academy and already have a coaching job...`}
             </StreamingText>
           </div>
         </StorySection>
@@ -227,11 +227,11 @@ But you might be busy and already have a job...`}
               Double your income while making a difference.
             </StreamingText>
             <StreamingText className="text-xl text-gray-400 mb-8" index={1}>
-              {`You will earn thousands of dollars for every student at your sports-microschool. Your school will have 15-25 students. Factoring in real estate and other expenses, that's at least six figures of additional net income. Again, the new Texas bill is why coaches can now get paid so much.
+              {`You will earn thousands of dollars for every student at your sports academy. Your academy will have 15-25 students. Factoring in real estate and other expenses, that's at least six figures of additional net income. Again, the new Texas bill is why former athletes that start their own academy can now get paid so much.
 
-And that afterschool coaching job you already have? You can keep it. Your microschool will operate from 9am- 3pm M-F, so you can continue coaching afterschool and on weekends.
+And any after existing coaching jobs you have? You can keep them. Your academy will operate from 9am- 3pm M-F, so you can continue coaching after hours and on weekends.
 
-Who teaches the academics at your school?`}
+Who teaches the academics at your academy?`}
             </StreamingText>
           </div>
         </StorySection>
@@ -337,12 +337,12 @@ Ok... but running a school sounds complicated. How would that work?`}
         }>
           <div className="max-w-2xl">
             <StreamingText tag="h2" className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" index={0}>
-              We have a campus. Time to start your school and form your legacy.
+            Time to start your own sports academy and continue your legacy.
             </StreamingText>
             <StreamingText className="text-xl text-gray-400 mb-8" index={1}>
-              {`We have a school location secured in Carrollton (45 minutes north of Dallas). You can use that location or one of our others.
+              {`Athletes that have competed at the highest level of their sport have proven they know the importance of discipline and grit. We want to enable you to share your learnings and talent with the next generation.
 
-We're inviting the best coaches/athletes in Texas to partner on this. Drop your email to learn more.`}
+We're inviting the best athletes and coaches in Texas to partner on this. Drop your email to learn more.`}
             </StreamingText>
             <div className="flex flex-col gap-4">
               <form 
